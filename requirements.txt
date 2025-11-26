@@ -1,0 +1,36 @@
+# ====================================================================
+# Sistema de Gestión de Notas de Laboratorio
+# Autor: Ricardo Jaraba Gallego
+# Profesor: Feiberth Alirio
+# ====================================================================
+
+# Este proyecto no requiere instalación de paquetes adicionales
+# Todas las bibliotecas utilizadas son módulos estándar de Python 3.x
+
+# Módulos utilizados (incluidos en Python):
+# - tkinter    : Interfaz gráfica de usuario (GUI)
+# - sqlite3    : Base de datos SQLite
+# - hashlib    : Encriptación de contraseñas (SHA-256)
+# - datetime   : Manejo de fechas y horas
+
+# ====================================================================
+# REQUISITOS DEL SISTEMA
+# ====================================================================
+# Python >= 3.6
+
+# ====================================================================
+# INSTALACIÓN
+# ====================================================================
+# No es necesario ejecutar: pip install -r requirements.txt
+# Simplemente ejecuta: python main.py
+
+# ====================================================================
+# NOTAS ADICIONALES
+# ====================================================================
+# - En sistemas Linux/Ubuntu, si tkinter no está disponible:
+#   sudo apt-get install python3-tk
+#
+# - En Fedora/RHEL:
+#   sudo dnf install python3-tkinter
+#
+# - En Windows y macOS, tkinter viene preinstalado con Python
