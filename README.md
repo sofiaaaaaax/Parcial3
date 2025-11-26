@@ -2,7 +2,7 @@
 
 Sistema desarrollado en Python con Tkinter para la gestión de notas de laboratorio con autenticación de usuarios y base de datos SQLite.
 
-**Creado por:** Ricardo Jaraba Gallego  
+**Creado por:** sofia lopez holguin 
 **Presentado a:** Profesor Feiberth Alirio  
 **Curso:** Lenguajes de Programación 2025-2  
 **Parcial:** 3
@@ -227,7 +227,7 @@ Interfaz principal con tabla de notas, formularios de entrada y opciones de bús
 
 ## 👨‍💻 Autor
 
-**Ricardo Jaraba Gallego**  
+**Sofia lopéz Holguin**  
 Universidad - Lenguajes de Programación 2025-2  
 Parcial 3  
 Profesor: Feiberth Alirio
@@ -244,3 +244,4 @@ Para cualquier consulta o problema con el proyecto, contactar al autor.
 
 Proyecto educativo - Universidad 2025  
 Desarrollado como ejercicio académico para la asignatura de Lenguajes de Programación
+
